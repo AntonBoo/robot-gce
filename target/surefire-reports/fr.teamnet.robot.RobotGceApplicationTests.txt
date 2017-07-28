@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fr.teamnet.robot.RobotGceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.245 sec - in fr.teamnet.robot.RobotGceApplicationTests

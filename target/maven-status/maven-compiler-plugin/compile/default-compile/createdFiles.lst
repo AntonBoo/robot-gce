@@ -1,0 +1,6 @@
+fr\teamnet\robot\ServletInitializer.class
+fr\teamnet\robot\service\ModuleService.class
+fr\teamnet\robot\entity\Module.class
+fr\teamnet\robot\RobotGceApplication.class
+fr\teamnet\robot\dao\ModuleDAO.class
+fr\teamnet\robot\controller\ModuleController.class
